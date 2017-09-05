@@ -1,5 +1,0 @@
-﻿  HelloGL.cpp
-f:\opengl tutorials\opengl_playground (opengl buffers)\opengltest\hellogl.cpp(148): warning C4244: '=': conversion from 'Uint64' to 'Uint32', possible loss of data
-f:\opengl tutorials\opengl_playground (opengl buffers)\opengltest\hellogl.cpp(98): warning C4101: 't1': unreferenced local variable
-  OpenGLTest.vcxproj -> F:\OpenGL Tutorials\OpenGL_Playground (OpenGL Buffers)\Debug\OpenGLTest.exe
-  OpenGLTest.vcxproj -> F:\OpenGL Tutorials\OpenGL_Playground (OpenGL Buffers)\Debug\OpenGLTest.pdb (Partial PDB)
